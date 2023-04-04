@@ -1,1 +1,1 @@
-# week2cour
+# coursera-test
